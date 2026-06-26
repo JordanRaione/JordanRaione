@@ -21,5 +21,5 @@ Sou Engenheiro de Produção, Mestre e Doutorando em Engenharia de Processos pel
 
 | Projeto | Descrição | Tecnologias / Áreas |
 |--------|-------------|--------------|
-| 🌱 **Monitoramento de Hidrólise de Biomassa** | Avaliação do uso de espectroscopia NIR para quantificar carboidratos, como glicose e xilose, visando possíveis otimizações na análise de processos industriais. | Python, Random Forest, CNN1D, PLS |
+| 🌱 **Monitoramento de Hidrólise de Biomassa** | Avaliação do uso de espectroscopia NIR para quantificar açúcares, como glicose e xilose, visando possíveis otimizações na análise de processos industriais. | Python, Random Forest, CNN1D, PLS |
 | 🧪 **Equilíbrio de Fases com DES** | Avaliação da estabilidade térmica e das transições de fase via Espectroscopia NIR em sistemas com dióxido de carbono supercrítico e Deep Eutectic Solvents (mentol e eucaliptol), explorando potenciais comportamentos termodinâmicos a alta pressão. | Espectroscopia NIR, Termodinâmica, Engenharia de Processos |
